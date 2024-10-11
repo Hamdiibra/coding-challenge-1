@@ -25,3 +25,4 @@ function gradeGenerator(marks){
     }
     console.log(`The grade is: ${grade}`);
 }
+gradeGenerator(85); // You can change this value to test other grades

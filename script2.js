@@ -15,3 +15,4 @@ function speedDetector(speed) {
         console.log("Points:" + demeritPoints);
     }
 }
+speedDetector(85); // Change this value to test different speeds
